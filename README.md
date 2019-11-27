@@ -1,0 +1,2 @@
+# tekscripts
+Scripts from tektronix
